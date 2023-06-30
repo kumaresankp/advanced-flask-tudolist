@@ -11,8 +11,7 @@ UI.
 CSS | [Skeleton](http://getskeleton.com/)
 JS  | [jQuery](https://jquery.com/)
 
-I've also build a quite similar app in Django:
-https://github.com/rtzll/django-todolist
+
 
 
 ## Explore
